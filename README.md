@@ -1,3 +1,3 @@
-Collection of AsmrProg Youtube Channel 100 days of JavaScript Coding Codes!
+Collection of Javscript projects
 
-Find Video's on : https://Youtube.com/@AsmrProg
+
